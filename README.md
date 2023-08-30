@@ -1,2 +1,2 @@
 # courseraLab
-Making a repository for the coursera atumation with python course lab.
+Making a repository for the coursera automation with python course lab.
